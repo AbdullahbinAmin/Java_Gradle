@@ -29,4 +29,4 @@ In build.gradle file, replace:
 - testCompile with testImplementation
 
 Because, version 7.0 removed compile and testCompile configurations.
-Source: https://docs.gradle.org/current/userguide/upgrading_version_6.html#sec:configuration_removal
+Source: https://docs.gradle.org/current/userguide/upgrading_version_6.html#sec:configuration_removal# java_gradle
